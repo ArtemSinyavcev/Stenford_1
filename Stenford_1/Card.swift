@@ -4,7 +4,7 @@
 //
 //  Created by Артём Синявцев on 02.12.2022.
 // 666
-
+// 77777777
 import Foundation
 
 struct Card {
