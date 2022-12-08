@@ -3,7 +3,7 @@
 //  Stenford_1
 //
 //  Created by Артём Синявцев on 02.12.2022.
-//
+// 666
 
 import Foundation
 
